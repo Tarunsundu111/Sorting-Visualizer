@@ -1,5 +1,3 @@
-// ## This component includes an animated title / header with text "SORTING VISUALIZER". ## //
-
 import React, { Component } from "react";
 import "./Header.css";
 
